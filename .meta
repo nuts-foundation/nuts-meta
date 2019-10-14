@@ -9,8 +9,9 @@
     "nuts-go": "https://github.com/nuts-foundation/nuts-go.git",
     "consent-store": "https://github.com/nuts-foundation/nuts-consent-store.git",
     "consent-logic": "https://github.com/nuts-foundation/nuts-consent-logic.git",
-    "bridge-go-client": "https://github.com/nuts-foundation/nuts-bridge-go-client.git",
     "event-octopus": "https://github.com/nuts-foundation/nuts-event-octopus.git",
-    "consent-cordapp": "https://github.com/nuts-foundation/nuts-consent-cordapp.git"
+    "consent-cordapp": "https://github.com/nuts-foundation/nuts-consent-cordapp.git",
+    "consent-go-client": "https://github.com/nuts-foundation/consent-bridge-go-client.git",
+    "docs": "https://github.com/nuts-foundation/nuts-documentation.git"
   }
 }

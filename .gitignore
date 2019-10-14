@@ -7,6 +7,7 @@
 /nuts-go/
 /consent-store/
 /consent-logic/
-/bridge-go-client/
 /event-octopus/
 /consent-cordapp/
+/consent-go-client/
+/docs/
