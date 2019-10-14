@@ -1,0 +1,12 @@
+/registry/
+/auth/
+/go-core/
+/fhir-validation/
+/consent-bridge/
+/nuts-crypto/
+/nuts-go/
+/consent-store/
+/consent-logic/
+/bridge-go-client/
+/event-octopus/
+/consent-cordapp/

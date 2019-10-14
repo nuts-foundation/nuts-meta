@@ -1,3 +1,16 @@
 {
-  "projects": {}
+  "projects": {
+    "registry": "https://github.com/nuts-foundation/nuts-registry.git",
+    "auth": "https://github.com/nuts-foundation/nuts-auth.git",
+    "go-core": "https://github.com/nuts-foundation/nuts-go-core.git",
+    "fhir-validation": "https://github.com/nuts-foundation/nuts-fhir-validation.git",
+    "consent-bridge": "https://github.com/nuts-foundation/nuts-consent-bridge.git",
+    "nuts-crypto": "https://github.com/nuts-foundation/nuts-crypto.git",
+    "nuts-go": "https://github.com/nuts-foundation/nuts-go.git",
+    "consent-store": "https://github.com/nuts-foundation/nuts-consent-store.git",
+    "consent-logic": "https://github.com/nuts-foundation/nuts-consent-logic.git",
+    "bridge-go-client": "https://github.com/nuts-foundation/nuts-bridge-go-client.git",
+    "event-octopus": "https://github.com/nuts-foundation/nuts-event-octopus.git",
+    "consent-cordapp": "https://github.com/nuts-foundation/nuts-consent-cordapp.git"
+  }
 }
