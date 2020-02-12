@@ -1,6 +1,6 @@
 prerelease	:
 	meta git stash
-	meta git "pull --rebase origin master"
+	meta git pull
 	meta exec "make update-nuts-deps"
 	meta git add go.mod go.sum
 	meta git commit -m "update nuts uServices"
